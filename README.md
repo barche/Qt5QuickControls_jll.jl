@@ -14,7 +14,7 @@ The tarballs for `Qt5QuickControls_jll.jl` have been built from these sources:
 
 `Qt5QuickControls_jll.jl` is available for the following platforms:
 
-* `Windows x86_64 {cxxstring_abi=cxx11}` (`x86_64-w64-mingw32-cxx11`)
+* `macOS x86_64` (`x86_64-apple-darwin`)
 
 ## Dependencies
 

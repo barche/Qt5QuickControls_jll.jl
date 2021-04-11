@@ -7,3 +7,11 @@ os = "windows"
     [[Qt5QuickControls.download]]
     sha256 = "70817db8b61a297eba21824e62e28ce441f613e8e4e29bd299a701ee20b3524a"
     url = "https://github.com/barche/Qt5QuickControls_jll.jl/releases/download/Qt5QuickControls-v5.15.2+0/Qt5QuickControls.v5.15.2.x86_64-w64-mingw32-cxx11.tar.gz"
+[[Qt5QuickControls]]
+arch = "x86_64"
+git-tree-sha1 = "be433774b017b58aac2529d0c0428e2de5bfd4b4"
+os = "macos"
+
+    [[Qt5QuickControls.download]]
+    sha256 = "cf445b4f899ef4ca67dc33e1cc1482a6ae4919a0d60dc75f7e6fcc17ef61cd62"
+    url = "https://github.com/barche/Qt5QuickControls_jll.jl/releases/download/Qt5QuickControls-v5.15.2+0/Qt5QuickControls.v5.15.2.x86_64-apple-darwin.tar.gz"
