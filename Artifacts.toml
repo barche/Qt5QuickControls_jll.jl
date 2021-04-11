@@ -1,0 +1,9 @@
+[[Qt5QuickControls]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d942c2675e5893802e0356ad9fbcab5fd5c6f3b5"
+os = "windows"
+
+    [[Qt5QuickControls.download]]
+    sha256 = "70817db8b61a297eba21824e62e28ce441f613e8e4e29bd299a701ee20b3524a"
+    url = "https://github.com/barche/Qt5QuickControls_jll.jl/releases/download/Qt5QuickControls-v5.15.2+0/Qt5QuickControls.v5.15.2.x86_64-w64-mingw32-cxx11.tar.gz"
